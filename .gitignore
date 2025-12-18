@@ -210,6 +210,6 @@ __marimo__/
 
 
 # Custom
-.csv
-.xes
-.gz
+*.csv
+*.xes
+*.gz
